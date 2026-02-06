@@ -1,0 +1,8 @@
+.btn{
+    background-color: pink;
+    width: fit-content;
+    padding: 5px 10px;
+    margin: 5px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
