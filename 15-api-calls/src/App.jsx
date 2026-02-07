@@ -17,6 +17,9 @@ const App = () => {
     const response =await axios.get('https://jsonplaceholder.typicode.com/todos')
     
     setdata(response.data)
+    const a = JSON.stringify(response.data)
+    console.log(a);
+    
   }
 
   return (

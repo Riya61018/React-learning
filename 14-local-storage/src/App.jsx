@@ -10,6 +10,10 @@ const App = () => {
      3.removeItem
      4.clear
 
+
+
+     JSON.stringify => to add object in local storage in the from of string
+
     */}
 
   const task = localStorage.getItem('new')
