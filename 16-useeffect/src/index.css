@@ -1,0 +1,14 @@
+body{
+  background: #000;
+  padding: 50px;
+}
+h1{
+  font-size: 100px;
+  color: white;
+}
+
+button{
+  height: 100px;
+  width: 200px;
+  background: pink;
+}
