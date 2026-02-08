@@ -1,0 +1,13 @@
+.nav{
+  display: flex;
+  justify-content: space-between;
+  background-color: aquamarine;
+  align-items: center;
+  padding: 20px 30px;
+}
+
+.nav2{
+   display: flex;
+  justify-content: space-between;
+  gap: 50px
+}
